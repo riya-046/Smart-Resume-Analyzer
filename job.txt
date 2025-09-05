@@ -1,0 +1,2 @@
+We are looking for a backend developer with experience in Python, Django, SQL, AWS, Kubernetes, Azure
+Knowledge of Docker and good teamwork skills are a plus.
